@@ -1,0 +1,74 @@
+
+	<!-- BLOG POSTS -->
+	<div class="container">
+		<div class="row mt">
+			<div class="col-lg-12">
+				<h1>Recent Posts</h1>
+			</div><!-- col-lg-12 -->
+			<div class="col-lg-8">
+				<p>Our latests thoughts about things that only matters to us.</p>
+			</div><!-- col-lg-8-->
+			<div class="col-lg-4 goright">
+				<p><a href="#"><i class="fa fa-angle-right"></i> See All Posts</a></p>
+			</div>
+		</div><!-- row -->
+
+		<div class="row mt">
+			<div class="col-lg-4">
+				<img class="img-responsive" src="assets/img/post01.jpg" alt="">
+				<h3><a href="#">Designing for the reader experience</a></h3>
+				<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+				<p><a href="#"><i class="fa fa-link"></i> Read More</a></p>
+			</div>
+			<div class="col-lg-4">
+				<img class="img-responsive" src="assets/img/post02.jpg" alt="">
+				<h3><a href="#">25 Examples of flat web & application design</a></h3>
+				<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+				<p><a href="#"><i class="fa fa-link"></i> Read More</a></p>
+			</div>
+			<div class="col-lg-4">
+				<img class="img-responsive" src="assets/img/post03.jpg" alt="">
+				<h3><a href="#">We are an award winning design agency</a></h3>
+				<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+				<p><a href="#"><i class="fa fa-link"></i> Read More</a></p>
+			</div>
+		</div><!-- row -->
+	</div><!-- container -->
+
+
+	<!-- CLIENTS LOGOS -->
+	<div id="lg">
+		<div class="container">
+			<div class="row centered">
+				<div class="col-lg-2 col-lg-offset-1">
+					<img src="assets/img/clients/c01.gif" alt="">
+				</div>
+				<div class="col-lg-2">
+					<img src="assets/img/clients/c02.gif" alt="">
+				</div>
+				<div class="col-lg-2">
+					<img src="assets/img/clients/c03.gif" alt="">
+				</div>
+				<div class="col-lg-2">
+					<img src="assets/img/clients/c04.gif" alt="">
+				</div>
+				<div class="col-lg-2">
+					<img src="assets/img/clients/c05.gif" alt="">
+				</div>
+			</div><!-- row -->
+		</div><!-- container -->
+	</div><!-- dg -->
+
+
+	<!-- CALL TO ACTION -->
+	<div id="call">
+		<div class="container">
+			<div class="row">
+				<h3>THIS IS A CALL TO ACTION AREA</h3>
+				<div class="col-lg-8 col-lg-offset-2">
+					<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+					<p><button type="button" class="btn btn-green btn-lg">Call To Action Button</button></p>
+				</div>
+			</div><!-- row -->
+		</div><!-- container -->
+	</div><!-- Call to action -->
